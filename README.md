@@ -23,12 +23,10 @@
 Here’s a quick look at the structure of the project:
 
 critavo-project/
-├── index.html # Main HTML file
-├── style.css # Custom styles for layout and design
-├── script.js # JavaScript for animations and interactions
-├── # All image assets, fonts, and other media
-│── fonts
-│── domain.ttf # Custom font used in the design
+├── index.html 
+├── style.css 
+├── script.js 
+├── All image assets, fonts, and other media
 
 yaml
 Copy

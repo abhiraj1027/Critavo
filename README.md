@@ -28,9 +28,7 @@ critavo-project/
 ├── script.js 
 ├── All image assets, fonts, and other media
 
-yaml
-Copy
-Edit
+
 
 ## 🎨 Design & Animations
 
